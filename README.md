@@ -1,13 +1,5 @@
 # 7.2-part_2
-#vimaldaga
-#righteducation
-#educationredefine
-#rightmentor
-#worldrecordholder
-#linuxworld
-#makingindiafutureready
-#righeudcation
-#arthbylw
+# #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation #arthbylw
 
 1.INSTALL PYTHON IN DOCKER CONTAINER
 
